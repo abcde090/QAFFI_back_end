@@ -1,6 +1,6 @@
 # QAFFI_back_end
 A staff seating management system made from Node, MongoDB and express. 
-deployed on heruku: https://staff-seating-management.herokuapp.com/
+deployed on heroku: https://staff-seating-management.herokuapp.com/
 
 ## Register and login
 User can login and register an account.
