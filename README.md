@@ -6,7 +6,7 @@ deployed on heroku: https://staff-seating-management.herokuapp.com/
 User can login and register an account.
 
 ## Seat modification
-Admin can add, remove, update or delete a seat from the database.
+Admin can add, remove, update or get a seat from the database.
 
 ## Student allocation
 Admin can allocate students into different seats.
